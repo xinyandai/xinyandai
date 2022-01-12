@@ -4,7 +4,6 @@
 - 🔭 I’m currently a Ph.D candidate at CUHK, in machine learning and similarity search
 - 🌱 I’m currently learning memory/cache optimization, DPDK for networking
 - 👯 I’m currently developing a system for text and high dimensional similarity search
-- 🤔 I’m looking for a position in industry
 
 
 <a href="https://www.linkedin.com/in/xinyan-dai-b546b3130">
