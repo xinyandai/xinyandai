@@ -1,7 +1,7 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Xinyan DAI!](https://appsrv.cse.cuhk.edu.hk/~xydai/) 
+## Hey, I'm [Xinyan DAI!](https://appsrv.cse.cuhk.edu.hk/~xydai/) 
 
 
-- 🔭 I was awarded a Ph.D at CUHK, in machine learning and similarity search
+- 🔭 I was awarded a Ph.D. at CUHK, in machine learning and similarity search
 
 
 <a href="https://www.linkedin.com/in/xinyan-dai-b546b3130">
